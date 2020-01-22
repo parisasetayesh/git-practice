@@ -1,0 +1,12 @@
+This is my cheat sheet
+cat is for reading text files. 
+
+
+Git cheats:
+
+ Git add
+  Git commit -m "version name for edits done"
+   Git push origin master
+
+
+For the first time the repository is created on git-hub we use the push method. 
