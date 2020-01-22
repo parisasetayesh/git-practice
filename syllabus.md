@@ -17,3 +17,12 @@ This is the 2nd paragraph.....
 - Odo M first-person account of bureacratic procedures and security
 - Dax, J. "Etic/Emic perspectives on Klingon mating rituals."
 - O'Brien, M. "Guide to the eradication of pests, including voles."
+- Odo M first-person account of bureacratic procedures and security
+- Dax, J. "Etic/Emic perspectives on Klingon mating rituals."
+- O'Brien, M. "Guide to the eradication of pests, including voles."
+- Odo M first-person account of bureacratic procedures and security
+- Dax, J. "Etic/Emic perspectives on Klingon mating rituals."
+- O'Brien, M. "Guide to the eradication of pests, including voles."
+- Odo M first-person account of bureacratic procedures and security
+- Dax, J. "Etic/Emic perspectives on Klingon mating rituals."
+- O'Brien, M. "Guide to the eradication of pests, including voles."
